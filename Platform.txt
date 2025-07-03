@@ -1,0 +1,10 @@
+Platform_PageLoad Platform.Page_Load Begin 0.186641528462416 0.000338
+Platform_PageLoad Platform.Page_Load End 0.186667579259375 0.000026
+Platform_OnPreRender Platform.OnPreRender Begin 0.187920741323269 0.000073
+Platform.GetPlaceVisitsCount Begin: 7774036 0.187992957205455 0.000072
+Platform.GetPlaceVisitsCount Return: 7774036 0.188052741340031 0.000060
+Platform.GetPlaceVisitsCount Begin: 7774036 0.188079211184662 0.000026
+Platform.GetPlaceVisitsCount Return: 7774036 0.188179433419611 0.000100
+Platform_OnPreRender Platform.Base.OnPreRender Begin 0.188206741359586 0.000027
+Platform_OnPreRender Platform.Base.OnPreRender End 0.188227833425757 0.000021
+Platform_OnPreRender Platform.OnPreRender End 0.188248995333206 0.000021

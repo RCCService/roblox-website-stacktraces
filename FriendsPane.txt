@@ -1,0 +1,46 @@
+FriendsPane.PageLoad Begin 0.00706633105604204 0.000074
+FriendsPane.PageLoad End 0.00709706121867444 0.000031
+FriendsPane.PreRender Begin 0.189287325623787 0.001038
+FriendsPane.BindFriends Begin 0.18931372562714 0.000026
+User.GetFriendsPaged Begin 0.189345503408953 0.000032
+User.GetFriendsPaged End 0.189554468514853 0.000209
+FriendsPane.GetFriendProfileURL 0.189602170108212 0.000048
+FriendsPane.GetOnlineStatusImage Begin 0.189655598686425 0.000053
+FriendsPane.GetOnlineStatusImage Return 0.189720201869232 0.000065
+FriendsPane.GetOnlineStatusAlternateText Begin 0.189744716158059 0.000025
+FriendsPane.GetOnlineStatusAlternateText Return 0.189805547911816 0.000061
+FriendsPane.GetFriendProfileURL 0.189840887598843 0.000035
+FriendsPane.GetFriendProfileURL 0.18991575744962 0.000075
+FriendsPane.GetOnlineStatusImage Begin 0.189966951106914 0.000051
+FriendsPane.GetOnlineStatusImage Return 0.190030716194377 0.000064
+FriendsPane.GetOnlineStatusAlternateText Begin 0.19006193524596 0.000031
+FriendsPane.GetOnlineStatusAlternateText Return 0.190116900332305 0.000055
+FriendsPane.GetFriendProfileURL 0.190147141605986 0.000030
+FriendsPane.GetFriendProfileURL 0.190218100345156 0.000071
+FriendsPane.GetOnlineStatusImage Begin 0.190266290827465 0.000048
+FriendsPane.GetOnlineStatusImage Return 0.190329776549813 0.000063
+FriendsPane.GetOnlineStatusAlternateText Begin 0.190353801949689 0.000024
+FriendsPane.GetOnlineStatusAlternateText Return 0.19040681148023 0.000053
+FriendsPane.GetFriendProfileURL 0.190440195611453 0.000033
+FriendsPane.GetFriendProfileURL 0.190504728952981 0.000065
+FriendsPane.GetOnlineStatusImage Begin 0.190559833721884 0.000055
+FriendsPane.GetOnlineStatusImage Return 0.190625973412822 0.000066
+FriendsPane.GetOnlineStatusAlternateText Begin 0.190650836908043 0.000025
+FriendsPane.GetOnlineStatusAlternateText Return 0.190709643264717 0.000059
+FriendsPane.GetFriendProfileURL 0.19074030358607 0.000031
+FriendsPane.GetFriendProfileURL 0.190807630578747 0.000067
+FriendsPane.GetOnlineStatusImage Begin 0.190862316299977 0.000055
+FriendsPane.GetOnlineStatusImage Return 0.190932157578687 0.000070
+FriendsPane.GetOnlineStatusAlternateText Begin 0.190958627423318 0.000026
+FriendsPane.GetOnlineStatusAlternateText Return 0.191013103620712 0.000054
+FriendsPane.GetFriendProfileURL 0.191042995687999 0.000030
+FriendsPane.GetFriendProfileURL 0.191114233792284 0.000071
+FriendsPane.GetOnlineStatusImage Begin 0.191168989354792 0.000055
+FriendsPane.GetOnlineStatusImage Return 0.191227865552745 0.000059
+FriendsPane.GetOnlineStatusAlternateText Begin 0.191251890952621 0.000024
+FriendsPane.GetOnlineStatusAlternateText Return 0.191310068737787 0.000058
+FriendsPane.GetFriendProfileURL 0.191341008424255 0.000031
+FriendsPane.BindFriends End 0.191394925891419 0.000054
+FriendsPane.PreRender_Base Begin 0.191442138595827 0.000047
+FriendsPane.PreRender_Base End 0.191463859233506 0.000022
+FriendsPane.PreRender End 0.191484183045611 0.000020

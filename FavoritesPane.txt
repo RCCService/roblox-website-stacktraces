@@ -1,0 +1,10 @@
+FavoritesPane.PreRender Begin 0.1924398212622 0.000956
+BuildFavoritesDisplayList FavoritesPane.BuildFavoritesDisplayList Begin 0.192486684760214 0.000047
+BuildFavoritesDisplayList Favorite.GetTotalNumberOfUserFavorites Begin 0.192510500636254 0.000024
+BuildFavoritesDisplayList Favorite.GetTotalNumberOfUserFavorites End 0.192554081594169 0.000044
+BuildFavoritesDisplayList Favorite.GetUserFavoritesPaged Begin 0.192577268898701 0.000023
+BuildFavoritesDisplayList Favorite.GetUserFavoritesPaged End 0.192709059391627 0.000132
+BuildFavoritesDisplayList FavoritesPane.BuildFavoritesDisplayList End 0.192733014950224 0.000024
+BindDisplayControls FavoritesPane.BindDisplayControls Begin 0.192753687968722 0.000021
+BindDisplayControls FavoritesPane.BindDisplayControls End 0.19386479287172 0.001111
+FavoritesPane.PreRender End 0.193891192875072 0.000026

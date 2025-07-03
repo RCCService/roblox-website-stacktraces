@@ -1,0 +1,12 @@
+OnPreRender Alerts.OnPreRender Begin 0.0642233160918497 0.000527
+OnPreRender User.GetCurrent Begin 0.0642502748254317 0.000027
+OnPreRender User.GetCurrent End 0.0643184399134527 0.000068
+OnPreRender authenticatedUser.TotalNumberOfUnreadMessages Begin 0.0643448399168051 0.000026
+OnPreRender authenticatedUser.TotalNumberOfUnreadMessages End 0.064406020876955 0.000061
+OnPreRender RobuxBalance.GetOrCreate Begin 0.0644306748483397 0.000025
+OnPreRender RobuxBalance.GetOrCreate End 0.0644857796172419 0.000055
+OnPreRender TicketsBalance.GetOrCreate Begin 0.064511271683971 0.000025
+OnPreRender TicketsBalance.GetOrCreate End 0.0645545732767712 0.000043
+OnPreRender Alerts.OnPreRender_Base Begin 0.064583278042321 0.000029
+OnPreRender Alerts.OnPreRender_Base End 0.0646040209020979 0.000021
+OnPreRender Alerts.OnPreRender End 0.0646256018572193 0.000022

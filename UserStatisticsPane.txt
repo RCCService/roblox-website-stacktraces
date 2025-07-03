@@ -1,0 +1,38 @@
+UserStatisticsPane_OnPreRender UserStatisticsPane.OnPreRender Begin 0.183524791558704 0.114715
+UserStatisticsPane_UpdateStatisticsValues UserStatisticsPane.UpdateStatisticsValues Begin 0.183759807461563 0.000235
+UserStatisticsPane.GetFriends Begin 0.18378271540098 0.000023
+_User.TotalNumberOfFriends Begin 0.183806810642135 0.000024
+_User.TotalNumberOfFriends End 0.183851299536673 0.000044
+UserStatisticsPane.GetFriends End 0.183876651920845 0.000025
+UserStatisticsPane.GetFriendsReferred Begin 0.184035051940959 0.000158
+IncrementalStatisticsAggregation.GetUserFriendsReferredAggregateCount Begin: AllTime 0.184063058293722 0.000028
+IncrementalStatisticsAggregation.GetUserFriendsReferredAggregateCount End: AllTime 0.184110550363245 0.000047
+UserStatisticsPane.GetFriendsReferred End 0.184132410683481 0.000022
+UserStatisticsPane.GetForumPosts Begin 0.184151197987454 0.000019
+AspNetForums.Users.GetUserInfo Begin 0.184170124973984 0.000019
+AspNetForums.Users.GetUserInfo End 0.18465545201974 0.000485
+ForumUser.TotalPosts Begin 0.184681712340535 0.000026
+ForumUser.TotalPosts End 0.184702175835197 0.000020
+UserStatisticsPane.GetForumPosts End 0.184725083774614 0.000023
+UserStatisticsPane.GetProfileViews Begin 0.184750156793671 0.000025
+ProfileViewsCounter.GetOrCreate Begin 0.18477075997089 0.000021
+ProfileViewsCounter.GetOrCreate End 0.18528618860777 0.000515
+UserStatisticsPane.GetProfileViews End 0.185316360040173 0.000030
+UserStatisticsPane.GetPlaceVisits Begin 0.185338010836573 0.000022
+IncrementalStatisticsAggregation.GetPlaceVisitsSoloAggregateCount Begin: AllTime 0.185432087038995 0.000094
+IncrementalStatisticsAggregation.GetPlaceVisitsSoloAggregateCount End: AllTime 0.185476017203304 0.000044
+IncrementalStatisticsAggregation.GetPlaceVisitsMultiplayerAggregateCount Begin: AllTime 0.185499274349114 0.000023
+IncrementalStatisticsAggregation.GetPlaceVisitsMultiplayerAggregateCount End: AllTime 0.185544601338997 0.000045
+UserStatisticsPane.GetPlaceVisits End 0.185570023564447 0.000025
+UserStatisticsPane.GetKills Begin 0.185590556900388 0.000021
+KillsCounter.GetOrCreate Begin 0.185610880712493 0.000020
+KillsCounter.GetOrCreate End 0.185642798176863 0.000032
+UserStatisticsPane.GetKills End 0.185673039450545 0.000030
+UserStatisticsPane.GetDeaths Begin 0.185694271199273 0.000021
+DeathsCounter.GetOrCreate Begin 0.185714245804984 0.000020
+DeathsCounter.GetOrCreate End 0.185745534697846 0.000031
+UserStatisticsPane.GetDeaths End 0.185768791843656 0.000023
+UserStatisticsPane_UpdateStatisticsValues UserStatisticsPane.UpdateStatisticsValues End 0.18578862676681 0.000020
+UserStatisticsPane_OnPreRender UserStatisticsPane.OnPreRender_Base Begin 0.18581188391262 0.000023
+UserStatisticsPane_OnPreRender UserStatisticsPane.OnPreRender_Base End 0.185836328360169 0.000024
+UserStatisticsPane_OnPreRender UserStatisticsPane.OnPreRender End 0.185855604553093 0.000019

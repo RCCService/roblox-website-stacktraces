@@ -1,0 +1,4 @@
+Roblox.CreatorRef.CreateNewRefFromAgentId(Int32 agentId) in D:\Roblox\Releases\2009.12.16\Server\Roblox Class Library\Business Logic Layer\ICreator.cs:149 
+Roblox.Asset.get_CreatorRefObject() in D:\Roblox\Releases\2009.12.16\Server\Roblox Class Library\Business Logic Layer\Asset.cs:767 
+UserControls_Games.BuildGamesDisplayList() +5096 
+UserControls_Games.Page_Load(Object sender, EventArgs e) +139 

@@ -1,0 +1,19 @@
+Page_Load Begin 0.00128759381429763 0.000018
+Page_Load Roblox.User.Get 0.00131266683335452 0.000025
+Page_Load DisplayedUser.Account 0.00135205731454696 0.000039
+Page_Load Asset.Get(activePlaceId) 0.00138984144632907 0.000038
+Page_Load End 0.00141058430610594 0.000021
+UserPage.BindDisplayControls Begin 0.0014284636734557 0.000018
+UserPage.BindDisplayControls End 0.0014689017738288 0.000040
+
+OnPreRender User.OnPreRender Begin 0.0493546665847196 0.000020
+OnPreRender Favorite.GetTotalNumberOfAssetFavorites Begin 0.0493770157939068 0.000022
+OnPreRender Favorite.GetTotalNumberOfAssetFavorites End 0.0494310729436283 0.000054
+OnPreRender UserAsset.GetTotalNumberOfUserAssets Begin 0.0494534221528155 0.000022
+OnPreRender UserAsset.GetTotalNumberOfUserAssets End 0.0495015427938467 0.000048
+OnPreRender SetMetaContent 0.0495588824836676 0.000057
+OnPreRender UserCounter.Increment Begin 0.0496134983636188 0.000055
+OnPreRender UserCounter.Increment End 0.0619128269095653 0.012299
+OnPreRender User.OnPreRender_Base Begin 0.0619958681899515 0.000083
+OnPreRender User.OnPreRender_Base End 0.0620198237485491 0.000024
+OnPreRender User.OnPreRender End 0.0620401475606537 0.000020

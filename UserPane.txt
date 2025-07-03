@@ -1,0 +1,12 @@
+UserPane_OnPreRender UserPane.OnPreRender Begin 0.0646596145599511 0.000034
+UserPane_OnPreRender UserPane.OnPreRender.DataBind Start 0.0646800082133344 0.000020
+UserPane_OnPreRender UserPane.OnPreRender.DataBind End 0.0650716781043401 0.000392
+UserPane_OnPreRender AccountManagement.Manager.GetBuildersClubMembership Begin 0.0651024781082512 0.000031
+UserPane_OnPreRender AccountManagement.Manager.GetBuildersClubMembership End 0.0662076465025583 0.001105
+UserPane_OnPreRender _DisplayedUser.Account.Presence Begin 0.0662816782579909 0.000074
+UserPane_OnPreRender _DisplayedUser.Account.Presence End 0.066345722710568 0.000064
+UserPane_OnPreRender UserPane.Base.OnPreRender Begin 0.0663886750969746 0.000043
+UserPane_OnPreRender UserPane.Base.OnPreRender End 0.0664112338299979 0.000023
+UserPane_OnPreRender UserPane.OnPreRender End 0.0664312782769877 0.000020
+UserPane_PageLoad UserPane.Page_Load Begin 0.00695053421594085 0.005184
+UserPane_PageLoad UserPane.Page_Load End 0.00699215961805202 0.000042
